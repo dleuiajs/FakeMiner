@@ -1,0 +1,15 @@
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\FakeMiner.exe
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\FakeMiner.deps.json
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\FakeMiner.runtimeconfig.json
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\FakeMiner.dll
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\FakeMiner.pdb
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.csproj.AssemblyReference.cache
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.AssemblyInfoInputs.cache
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.AssemblyInfo.cs
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.csproj.CoreCompileInputs.cache
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.dll
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\refint\FakeMiner.dll
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.pdb
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\FakeMiner.genruntimeconfig.cache
+G:\Programming\VS\C#\FakeMiner\obj\Debug\net7.0\ref\FakeMiner.dll

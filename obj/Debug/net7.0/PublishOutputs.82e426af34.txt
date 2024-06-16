@@ -1,0 +1,5 @@
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\publish\FakeMiner.exe
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\publish\FakeMiner.dll
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\publish\FakeMiner.deps.json
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\publish\FakeMiner.runtimeconfig.json
+G:\Programming\VS\C#\FakeMiner\bin\Debug\net7.0\publish\FakeMiner.pdb
